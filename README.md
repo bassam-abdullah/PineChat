@@ -8,7 +8,8 @@ A simpler way of keeping in touch with your friends and family.
 
 An inviting warm UI.. <br/>
 <br/>
-<img src="https://user-images.githubusercontent.com/60147220/166165994-984c7a42-4fce-47f0-8d20-5846abd186e6.PNG" width="30%" height="30%">  <img src="https://user-images.githubusercontent.com/60147220/166165998-0ba137e1-2f89-4d59-9e9f-2f1f39e1026f.PNG" width="30%" height="30%">
+<img src="https://user-images.githubusercontent.com/60147220/168487081-f9c84ccd-a7b5-4c3a-9f48-ad532e0454b8.JPEG"> 
+
 
 # How to use 🏂
 1. Pick a unique name 
@@ -18,10 +19,11 @@ An inviting warm UI.. <br/>
 # How to run the app locally 👨‍💻
 1. Clone repo: `https://github.com/bassam-abdullah/pinechat.git`
 2. `cd pine-chat`
-3. Install dependencies with `yarn` or `npm i`
-4. `cd server` And run backend server with `nodemon index.js`
-5. `cd ..` To get out of the server folder then `cd client`
-6. Once you’re in client `npm start` And it should open in `http://localhost:3000/`
+3. `cd server`
+4. Install dependencies with `yarn` or `npm i`
+5. Run backend server with `nodemon index.js`
+6. `cd ..` To get out of the server folder then `cd client`
+7. Once you’re in client `npm start` And it should open in `http://localhost:3000/`
 
 
 
