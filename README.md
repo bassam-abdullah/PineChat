@@ -1,8 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/07cc3549-02a8-4ce0-abe3-af55b899faa2/deploy-status)](https://app.netlify.com/sites/pinechat/deploys)
 
-# Introducing pine chat
+# Pine Chat
 
-A simpler way of keeping in touch with your friends and family.
+Introducing pine chat, A simpler way of keeping in touch with your friends and family.
 
 ![0CC97B04-9F60-4827-B8A4-AAFC465A2C8B](https://user-images.githubusercontent.com/60147220/166165801-f5f890ff-328a-4383-95b5-5dc9dfb1d133.JPEG)
 
